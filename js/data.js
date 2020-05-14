@@ -73,7 +73,7 @@ const data = {
     {
       start: "Gonzague",
       end: "Bd Gambetta",
-      difficulty: O,
+      difficulty: 0,
       displayMin: true,
       time: 4,
       align: "top",
