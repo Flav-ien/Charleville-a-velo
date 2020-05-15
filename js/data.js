@@ -1,10 +1,17 @@
 const data = {
   defaultPointsDisplayed: [
     "Gare de Charleville",
-    "Gonzague",
+    "Mairie de Villers-Semeuse",
     "Place Ducale",
     "Hôtel de Ville",
     "CHU Manchester",
+    "Aiglemont",
+    "Saint Laurent",
+    "Mairie de Prix-lès-Mézières",
+    "Mairie de La Francheville",
+    "Les Ayvelles",
+    "Mairie de Montcy-Notre-Dame",
+    "Mairie de Warcq",
   ],
   lines: [{
       start: "Place Ducale",
@@ -217,7 +224,7 @@ const data = {
       displayMin: true,
       time: 10,
       times: { hard: 12, easy: 8 },
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Hôtel de Ville",
@@ -265,7 +272,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 2,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Pont D58",
@@ -274,7 +281,7 @@ const data = {
       displayMin: true,
       time: 14,
       times: { hard: 18, easy: 9 },
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Pont D58",
@@ -283,7 +290,7 @@ const data = {
       displayMin: true,
       time: 11,
       times: { hard: 12, easy: 9 },
-      align: null,
+      align: "top",
     },
     {
       start: "Parc Collignon",
@@ -291,7 +298,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 7,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Parc Collignon",
@@ -299,7 +306,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 6,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Parc Collignon",
@@ -308,7 +315,7 @@ const data = {
       displayMin: true,
       time: 8,
       times: { hard: 10, easy: 6 },
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Parc Collignon",
@@ -334,7 +341,7 @@ const data = {
       displayMin: true,
       time: 4,
       times: { hard: 4, easy: 3 },
-      align: null,
+      align: "top",
     },
     {
       start: "Bel-Air",
@@ -343,7 +350,7 @@ const data = {
       displayMin: true,
       time: 23,
       times: { hard: 26, easy: 19 },
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Montcy-Notre-Dame",
@@ -359,7 +366,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 6,
-      align: null,
+      align: "top",
     },
     {
       start: "Etion",
@@ -375,7 +382,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 5,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "CHU Manchester",
@@ -383,7 +390,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 7,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Parc des expos",
@@ -399,7 +406,7 @@ const data = {
       difficulty: 0,
       displayMin: false,
       time: 7,
-      align: null,
+      align: "top",
     },
     {
       start: "Parc des expos",
@@ -432,7 +439,7 @@ const data = {
       displayMin: false,
       time: 9,
       times: { hard: 9, easy: 8 },
-      align: null,
+      align: "top",
     },
     {
       start: "Ronde Couture",
@@ -481,7 +488,7 @@ const data = {
       displayMin: true,
       time: 13,
       times: { hard: 14, easy: 11 },
-      align: null,
+      align: "top",
     },
     {
       start: "Romery",
@@ -490,7 +497,7 @@ const data = {
       displayMin: true,
       time: 10,
       times: { hard: 14, easy: 6 },
-      align: null,
+      align: "top",
     },
     {
       start: "Le Theux",
@@ -508,7 +515,7 @@ const data = {
       displayMin: true,
       time: 7,
       times: { hard: 7, easy: 6 },
-      align: null,
+      align: "top",
     },
     {
       start: "Mairie de Montcy-Notre-Dame",
@@ -516,7 +523,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 24,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Aiglemont",
@@ -524,7 +531,7 @@ const data = {
       difficulty: 0,
       displayMin: false,
       time: 10,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "Aiglemont",
@@ -533,7 +540,7 @@ const data = {
       displayMin: true,
       time: 19,
       times: { hard: 23, easy: 15 },
-      align: null,
+      align: "top",
     },
     {
       start: "Gare de Nouzonville",
@@ -541,7 +548,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 2,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "La Havetière",
@@ -549,7 +556,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 6,
-      align: "bottom",
+      align: "top",
     },
     {
       start: "La Warenne",
@@ -587,6 +594,7 @@ const data = {
     {
       start: "Pont Voie Ferrée",
       end: "Mairie de Villers-Semeuse",
+      difficulty: 0,
       displayMin: true,
       time: 4,
       align: "top",
@@ -621,7 +629,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 6,
-      align: null,
+      align: "top",
     },
     {
       start: "Les Ayvelles",
@@ -638,7 +646,7 @@ const data = {
       displayMin: true,
       time: 12,
       times: { hard: 13, easy: 10 },
-      align: null,
+      align: "top",
     },
     {
       start: "Fort des Ayvelles",
@@ -647,7 +655,7 @@ const data = {
       displayMin: true,
       time: 7,
       times: { hard: 8, easy: 5 },
-      align: null,
+      align: "top",
     },
     {
       start: "Fort des Ayvelles",
@@ -656,7 +664,7 @@ const data = {
       displayMin: true,
       time: 13,
       times: { hard: 15, easy: 11 },
-      align: null,
+      align: "top",
     },
   ],
   points: {
