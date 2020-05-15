@@ -111,7 +111,7 @@ const data = {
     },
     {
       start: "Place des Droits de l’Homme",
-      end: "Cimetière Boutett",
+      end: "Cimetière Boutet",
       difficulty: 1,
       displayMin: true,
       time: 4,
@@ -346,7 +346,7 @@ const data = {
     {
       start: "Bel-Air",
       end: "Pont de Nouzonville",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 23,
       times: { hard: 26, easy: 19 },
@@ -511,7 +511,7 @@ const data = {
     {
       start: "N43",
       end: "Mairie de Warcq",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 7,
       times: { hard: 7, easy: 6 },
@@ -536,7 +536,7 @@ const data = {
     {
       start: "Aiglemont",
       end: "Gare de Nouzonville",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 19,
       times: { hard: 23, easy: 15 },
@@ -577,7 +577,7 @@ const data = {
     {
       start: "Centre Commercial La Croisette",
       end: "Campus Sup Ardennes",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 6,
       times: { hard: 6, easy: 5 },
@@ -642,7 +642,7 @@ const data = {
     {
       start: "Fort des Ayvelles",
       end: "Mairie de Villers-Semeuse",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 12,
       times: { hard: 13, easy: 10 },
@@ -651,7 +651,7 @@ const data = {
     {
       start: "Fort des Ayvelles",
       end: "Mairie de La Francheville",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 7,
       times: { hard: 8, easy: 5 },
@@ -660,7 +660,7 @@ const data = {
     {
       start: "Fort des Ayvelles",
       end: "Les Ayvelles",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 13,
       times: { hard: 15, easy: 11 },
