@@ -1,6 +1,7 @@
 const data = {
   defaultPointsDisplayed: [
     "Gare de Charleville",
+    "Pont de Nouzonville",
     "Mairie de Villers-Semeuse",
     "Place Ducale",
     "Hôtel de Ville",
@@ -12,6 +13,7 @@ const data = {
     "Les Ayvelles",
     "Mairie de Montcy-Notre-Dame",
     "Mairie de Warcq",
+    "Damouzy",
   ],
   lines: [{
       start: "Place Ducale",
