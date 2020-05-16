@@ -61,6 +61,14 @@ const data = {
       time: 4,
       align: "top",
     },
+          {
+      start: "Gare de Charleville",
+      end: "Gonzague",
+      difficulty: 0,
+      displayMin: true,
+      time: 2,
+      align: "top",
+    },
     {
       start: "Gare de Charleville",
       end: "Hôtel de Ville",
@@ -121,7 +129,7 @@ const data = {
     {
       start: "Place des Droits de l’Homme",
       end: "Parc Collignon",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 4,
       times: { hard: 5, easy: 3 },
@@ -130,7 +138,7 @@ const data = {
     {
       start: "Place des Droits de l’Homme",
       end: "Bel-Air",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 8,
       times: { hard: 11, easy: 4 },
@@ -139,7 +147,7 @@ const data = {
     {
       start: "Place des Droits de l’Homme",
       end: "Montcy-Notre-Dame",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 10,
       times: { hard: 11, easy: 9 },
@@ -220,7 +228,7 @@ const data = {
     {
       start: "Hôtel de Ville",
       end: "Le Theux",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 10,
       times: { hard: 12, easy: 8 },
@@ -277,7 +285,7 @@ const data = {
     {
       start: "Pont D58",
       end: "Aiglemont",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 14,
       times: { hard: 18, easy: 9 },
@@ -311,7 +319,7 @@ const data = {
     {
       start: "Parc Collignon",
       end: "La Havetière",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 8,
       times: { hard: 10, easy: 6 },
@@ -328,7 +336,7 @@ const data = {
     {
       start: "Bel-Air",
       end: "La Havetière",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 9,
       times: { hard: 10, easy: 8 },
@@ -337,7 +345,7 @@ const data = {
     {
       start: "Bel-Air",
       end: "La Culbute",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 4,
       times: { hard: 4, easy: 3 },
@@ -346,7 +354,7 @@ const data = {
     {
       start: "Bel-Air",
       end: "Pont de Nouzonville",
-      difficulty: -1,
+      difficulty: 1,
       displayMin: true,
       time: 23,
       times: { hard: 26, easy: 19 },
@@ -435,7 +443,7 @@ const data = {
     {
       start: "Ronde Couture",
       end: "Centre Commercial La Croisette",
-      difficulty: 0,
+      difficulty: 1,
       displayMin: false,
       time: 9,
       times: { hard: 9, easy: 8 },
@@ -484,7 +492,7 @@ const data = {
     {
       start: "Romery",
       end: "Le Theux",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 13,
       times: { hard: 14, easy: 11 },
@@ -493,7 +501,7 @@ const data = {
     {
       start: "Romery",
       end: "Saint Laurent",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 10,
       times: { hard: 14, easy: 6 },
@@ -502,7 +510,7 @@ const data = {
     {
       start: "Le Theux",
       end: "Saint Laurent",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 10,
       times: { hard: 12, easy: 7 },
@@ -536,7 +544,7 @@ const data = {
     {
       start: "Aiglemont",
       end: "Gare de Nouzonville",
-      difficulty: -1,
+      difficulty: 1,
       displayMin: true,
       time: 19,
       times: { hard: 23, easy: 15 },
@@ -577,7 +585,7 @@ const data = {
     {
       start: "Centre Commercial La Croisette",
       end: "Campus Sup Ardennes",
-      difficulty: -1,
+      difficulty: 1,
       displayMin: true,
       time: 6,
       times: { hard: 6, easy: 5 },
@@ -642,7 +650,7 @@ const data = {
     {
       start: "Fort des Ayvelles",
       end: "Mairie de Villers-Semeuse",
-      difficulty: -1,
+      difficulty: 1,
       displayMin: true,
       time: 12,
       times: { hard: 13, easy: 10 },
@@ -651,7 +659,7 @@ const data = {
     {
       start: "Fort des Ayvelles",
       end: "Mairie de La Francheville",
-      difficulty: -1,
+      difficulty: 1,
       displayMin: true,
       time: 7,
       times: { hard: 8, easy: 5 },
