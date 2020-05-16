@@ -722,5 +722,11 @@ const data = {
     "Mairie de Villers-Semeuse": { x: 767, y: 1156 },
     "Semeuse": { x: 812, y: 1070 },
     "Fort des Ayvelles": { x: 642, y: 1389 },
+    "Ville-sur-Lumes": { x: 1122, y: 1006 },
+    "La Grandville": { x: 1202, y: 649 },
+    "Neufmanil": { x: 1189, y: 226 },
+    "Gare de Lumes": { x: 1091, y: 1287 },
+    "Houldizy": { x: 86, y: 223 },
+    
   },
 };
