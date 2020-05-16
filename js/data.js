@@ -767,7 +767,31 @@ const data = {
       time: 15,
       times: { hard: 15, easy: 11 },
       align: "top",
-    },           
+    },
+    {
+      start: "N43",
+      end: "La Mal Campée",
+      difficulty: 0,
+      displayMin: true,
+      time: 6,
+      align: "top",
+    },    
+    {
+      start: "Damouzy",
+      end: "La Mal Campée",
+      difficulty: 0,
+      displayMin: true,
+      time: 7,
+      align: "top",
+    },
+    {
+      start: "Etion",
+      end: "La Mal Campée",
+      difficulty: 0,
+      displayMin: true,
+      time: 9,
+      align: "top",
+    },      
   ],
   points: {
     "Gare de Charleville": { x: 570, y: 805 },
@@ -819,6 +843,7 @@ const data = {
     "Neufmanil": { x: 1189, y: 226 },
     "Gare de Lumes": { x: 1091, y: 1287 },
     "Houldizy": { x: 86, y: 223 },
+    "La Mal Campée": { x: 115, y: 558 },
     
   },
 };
