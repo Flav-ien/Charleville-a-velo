@@ -804,7 +804,7 @@ const data = {
     "Pont D58": {x: 671, y: 713},
     "Place des Droits de l’Homme": { x: 499, y: 658 },
     "Bel-Air": { x: 546, y: 549 },
-    "La Culbute": { x: 585, y: 467 },
+    "La Culbute": { x: 601, y: 463 },
     "La Havetière": { x: 466, y: 405 },
     "Parc Collignon": {x: 445, y: 594},
     "Cimetière Boutet": { x: 442, y: 696 },
