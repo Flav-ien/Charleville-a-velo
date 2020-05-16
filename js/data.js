@@ -580,7 +580,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 9,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Mairie de Warcq",
