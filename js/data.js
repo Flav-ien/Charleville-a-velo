@@ -1,7 +1,8 @@
 const data = {
   defaultPointsDisplayed: [
     "Gare de Charleville",
-    "Pont de Nouzonville",
+    "Gare de Nouzonville",
+    "Gare de Mohon",
     "Mairie de Villers-Semeuse",
     "Place Ducale",
     "Hôtel de Ville",
