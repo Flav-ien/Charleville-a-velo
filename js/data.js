@@ -679,7 +679,7 @@ const data = {
     {
       start: "Romery",
       end: "Ville-sur-Lumes",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 7,
       times: { hard: 10, easy: 4 },
@@ -688,7 +688,7 @@ const data = {
     {
       start: "Ville-sur-Lumes",
       end: "Saint Laurent",
-      difficulty: 1,
+      difficulty: -1,
       displayMin: true,
       time: 7,
       times: { hard: 8, easy: 5 },
