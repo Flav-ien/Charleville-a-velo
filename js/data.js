@@ -736,9 +736,10 @@ const data = {
     {
       start: "Damouzy",
       end: "Houldizy",
-      difficulty: 0,
+      difficulty: -1,
       displayMin: true,
       time: 9,
+      times: { hard: 10, easy: 8 },
       align: "top",
     }, 
     {
