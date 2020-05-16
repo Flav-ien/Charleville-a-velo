@@ -312,7 +312,7 @@ const data = {
       start: "Parc Collignon",
       end: "N43",
       difficulty: 0,
-      displayMin: true,
+      displayMin: false,
       time: 7,
       align: "top",
     },
