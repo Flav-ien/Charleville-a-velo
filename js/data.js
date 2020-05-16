@@ -248,7 +248,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 12,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Bd Gambetta",
