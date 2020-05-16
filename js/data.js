@@ -288,7 +288,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 2,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Pont D58",
@@ -374,7 +374,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 4,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Etion",
