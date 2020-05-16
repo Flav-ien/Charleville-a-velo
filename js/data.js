@@ -727,6 +727,7 @@ const data = {
     "Neufmanil": { x: 1189, y: 226 },
     "Gare de Lumes": { x: 1091, y: 1287 },
     "Houldizy": { x: 86, y: 223 },
+    "La Mal Campée": { x: 165, y: 562 },
     
   },
 };
