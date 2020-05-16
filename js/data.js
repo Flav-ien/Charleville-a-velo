@@ -712,7 +712,7 @@ const data = {
     "Gare de Nouzonville": { x: 731, y: 202 },
     "Mairie de Montcy-Notre-Dame": { x: 730, y: 724 },
     "Montcy-Notre-Dame": { x: 708, y: 641 },
-    "N43": { x: 151, y: 664 },
+    "N43": { x: 311, y: 664 },
     "Mairie de Warcq": { x: 179, y: 792 },
     "Damouzy": { x: 138, y: 399 },
     "Mairie de Prix-lès-Mézières": { x: 239, y: 996 },
