@@ -67,7 +67,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 4,
-      align: "top",
+      align: "bottom",
     },
           {
       start: "Gare de Charleville",
@@ -75,7 +75,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 2,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Gare de Charleville",
@@ -107,7 +107,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 3,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Pont de Montcy",
@@ -115,7 +115,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 4,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Pont de Montcy",
@@ -215,7 +215,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 8,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Hôtel de Ville",
@@ -430,7 +430,7 @@ const data = {
       difficulty: 0,
       displayMin: true,
       time: 3,
-      align: "top",
+      align: "bottom",
     },
     {
       start: "Parc des expos",
