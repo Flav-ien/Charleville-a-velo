@@ -687,7 +687,7 @@ const data = {
     },
     {
       start: "Ville-sur-Lumes",
-      end: "",
+      end: "Saint Laurent",
       difficulty: 1,
       displayMin: true,
       time: 7,
