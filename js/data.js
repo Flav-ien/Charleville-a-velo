@@ -693,7 +693,7 @@ const data = {
     "Cimetière Boutet": { x: 442, y: 696 },
     "Etion": { x: 310, y: 563 },
     "Bd Gambetta": { x: 396, y: 729 },
-    "La Warenne": { x: 215, y: 909 },
+    "La Warenne": { x: 197, y: 910 },
     "CHU Manchester": { x: 345, y: 880 },
     "Hôtel de Ville":  {x: 519, y: 914},
     "Parc des expos": { x: 426, y: 962 },
