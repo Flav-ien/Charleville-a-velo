@@ -678,9 +678,9 @@ const data = {
     },
   ],
   points: {
-    "Gare de Charleville": { x: 288, y: 387 },
-    Gonzague: { x: 261, y: 378 },
-    "Place Ducale": { x: 267, y: 359 },
+    "Gare de Charleville": { x: 570, y: 805 },
+    Gonzague: { x: 524, y: 727 },
+    "Place Ducale": { x: 536, y: 730 },
     "Pont de Montcy": { x: 299, y: 342 },
     "Parc du Mont Olympe": { x: 262, y: 310 },
     "Montcy-Saint-Pierre": { x: 303, y: 307 },
