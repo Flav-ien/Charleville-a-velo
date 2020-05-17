@@ -1,25 +1,12 @@
-# Paris à vélo 🚲
+# Charleville à vélo à vélo 🚲
  
-<img src="https://joachimesque.github.io/paris-a-velo/img/opengraph.jpg" width="300"/>
+<img src="https://github.com/Flav-ien/Charleville-a-velo/blob/master/img/opengraph.png" width="300"/>
 
-Paris à vélo est une carte de Paris et de la petite couronne, montrant comme seules informations les temps de parcours à vélo entre divers points d’intérêt de la région parisienne.
+Charleville à vélo est une carte de Charleville et des alentours, montrant comme seules informations les temps de parcours à vélo entre divers points d’intérêt de la région carolomacérienne. C'est un fork d'une carte "Paris à vélo" proposée par @Joachimesque
 
-Les points sont choisis pour leur pertinence. Dans Paris c’est des places importantes ou des monuments connus, hors de Paris c’est des carrefours, des mairies, des gares RER ou des hôpitaux.
+Les points sont choisis pour leur pertinence. Ce sont des gares, des points reconnus (ex: place Ducale, CHU Manchester, etc), des points de passages obligés (ponts sur la Meuse et enjambant les voies ferrées, place ou carrefour central d'un village). De manière générale ces points sont situés dans des carrefours routiers pour que les distances cumulées soient calculées de la manière la plus juste possible.
 
 Les temps de trajets sont renseignés au début à titre indicatif, mais sont destinés à être affinés avec le temps, pour correspondre le plus possible à l’expérience de cyclistes normaux. Pas des bêtes de course ou des vélos à assistance électrique. Je tiens en créant ce projet à être le plus utile possible aux nouvelles (et nouveaux) cyclistes, qui viennent juste de sortir leur vélo de la cave, de l’asso, ou du bouclard.
-
-## Comment aider ?
-
-Pour participer à améliorer cette carte, toutes les suggestions sont acceptées. La meilleure manière de proposer un nouveau point d’intérêt, un nouveau trajet ou un nouveau timing, c’est d'ouvrir un ticket (onglet _Issues_ puis bouton vert—il faut avoir un compte). Il est aussi possible de répondre aux fils dédiés sur le [Fediverse](https://boitam.eu/@joachim/104122684640655166) ou sur [Twitter](https://twitter.com/joachimesque/status/1258144151658512385).
-
-**Pour proposer un point d’intérêt**\
-Avec Firefox il faut ouvrir les Outils de développement ou appuyer sur F12 puis sélectionner la Console javascript. Lorsqu’on clique sur la carte, un texte apparait dans la console, `clic au point {x:xxx, y: yyy}`, où `x` et `y` sont les coordonnées du point sur la carte. Copiez ces coordonnées dans un message où il faudra aussi renseigner le nom du lieu proposé, et si possible expliquer sa pertinence. Évidemment on va éviter les lieux "Chez moi lol", mais on va aussi limiter le nombre de lieux pour ne pas rendre la carte trop dense.
-
-**Pour proposer un nouveau trajet ou une correction de timing**\
-Indiquez bien le trajet en question, et n’hésitez pas à préciser votre niveau à vélo. Novice, vélotaffiste confirmé·e, pro… l’avis de tout le monde sera pris en compte, en gardant bien à l'esprit que l'outil est à destination des cyclistes qui n’ont pas encore l'habitude du vélo.
-
-**Pour faire remonter un bug**\
-Hé ui, derrière les sites web il y a des humains, il est possible que des choses ne marchent pas bien (par exemple sur mobile, c'est dur à bien faire sur mobile), donc là aussi on peut laisser un message (même canaux de communication).
 
 ## Transposer cette carte pour une autre ville
 
@@ -109,4 +96,4 @@ Une partie des données cartographiques utilisées (le dessin de la Seine par ex
 
 Copyright 2020 Joachim Robert (sauf mentions)
 
-fait à Montreuil 🍑 avec fierté
+fait à Montreuil 🍑 (puis repris à Charleville 🐗) avec fierté
