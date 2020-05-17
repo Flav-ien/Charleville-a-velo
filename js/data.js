@@ -702,12 +702,36 @@ const data = {
     },
     {
       start: "Romery",
+      end: "Pont de Lumes",
+      difficulty: 0,
+      displayMin: true,
+      time: 8,
+      align: "top",
+    },
+    {
+      start: "Pont de Lumes",
       end: "Gare de Lumes",
+      difficulty: 0,
+      displayMin: true,
+      time: 4,
+      align: "top",
+    }, 
+    {
+      start: "Pont de Lumes",
+      end: "Semeuse",
+      difficulty: 0,
+      displayMin: true,
+      time: 9,
+      align: "top",
+    },
+    {
+      start: "Pont de Lumes",
+      end: "Mairie de Villers-Semeuse",
       difficulty: 0,
       displayMin: true,
       time: 12,
       align: "top",
-    },
+    },          
     {
       start: "Saint Laurent",
       end: "La Grandville",
@@ -845,6 +869,7 @@ const data = {
     "Gare de Lumes": { x: 1091, y: 1287 },
     "Houldizy": { x: 86, y: 223 },
     "La Mal Campée": { x: 154, y: 557 },
+    "Pont de Lumes": { x: 1030, y: 1222 },
     
   },
 };
