@@ -4,7 +4,9 @@
 
 Charleville à vélo est une carte de Charleville et des alentours, montrant comme seules informations les temps de parcours à vélo entre divers points d’intérêt de la région carolomacérienne. C'est un fork d'une carte "Paris à vélo" proposée par @Joachimesque
 
-Les points sont choisis pour leur pertinence. Ce sont des gares, des points reconnus (ex: place Ducale, CHU Manchester, etc), des points de passages obligés (ponts sur la Meuse et enjambant les voies ferrées, place ou carrefour central d'un village). De manière générale ces points sont situés dans des carrefours routiers pour que les distances cumulées soient calculées de la manière la plus juste possible.
+Les points sont choisis pour leur pertinence. Ce sont des gares, des points reconnus (ex: place Ducale, CHU Manchester, etc), des points de passages obligés (ponts sur la Meuse et enjambant les voies ferrées, place ou carrefour central d'un village). De manière générale ces points sont situés dans des carrefours routiers pour que les distances cumulées soient calculées de la façon la plus juste possible.
+
+↓↓ Ci après Readme de @joachimesque non modifié ↓↓
 
 Les temps de trajets sont renseignés au début à titre indicatif, mais sont destinés à être affinés avec le temps, pour correspondre le plus possible à l’expérience de cyclistes normaux. Pas des bêtes de course ou des vélos à assistance électrique. Je tiens en créant ce projet à être le plus utile possible aux nouvelles (et nouveaux) cyclistes, qui viennent juste de sortir leur vélo de la cave, de l’asso, ou du bouclard.
 
