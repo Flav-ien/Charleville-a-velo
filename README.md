@@ -1,4 +1,4 @@
-# Charleville à vélo à vélo 🚲
+# Charleville à vélo 🚲
  
 <img src="https://github.com/Flav-ien/Charleville-a-velo/blob/master/img/opengraph.png" width="300"/>
 
